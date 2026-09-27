@@ -41,13 +41,13 @@ export default function Hero() {
 				</div>
 
 				<div className="lg:col-span-5 flex justify-center relative">
-					<div className="w-64 h-64 sm:w-80 sm:h-80 relative rounded-2xl overflow-hidden border border-[#232B3E] shadow-2xl bg-[#161B26]">
+					<div className="w-64 h-64 sm:w-80 sm:h-80 relative rounded-2xl overflow-hidden">
 						<Image
 							src={bannerImg}
 							alt="Gym Companion"
 							priority
 							placeholder="blur"
-							className="object-cover w-full h-full opacity-85 hover:scale-105 transition-transform duration-500"
+							className="object-cover w-full h-full opacity-85"
 						/>
 					</div>
 				</div>

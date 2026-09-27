@@ -1,3 +1,5 @@
+Here is your updated README.md with the live deployment link included:
+
 Markdown
 
 # 🏋️ FitLog
@@ -6,9 +8,17 @@ FitLog is a high-performance dark-themed workout tracking app built to help user
 
 ---
 
+## 🔗 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FitLog-D4FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://assignment-6-fit-log-nine.vercel.app/)
+
+**Live URL:** [https://assignment-6-fit-log-nine.vercel.app/](https://assignment-6-fit-log-nine.vercel.app/)
+
+---
+
 ## 🛠️ Technologies Used
 
-- **Framework:** Next.js 14 (App Router)
+- **Framework:** Next.js 16 (App Router)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide React

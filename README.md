@@ -1,7 +1,3 @@
-Here is your updated README.md with the live deployment link included:
-
-Markdown
-
 # 🏋️ FitLog
 
 FitLog is a high-performance dark-themed workout tracking app built to help users search exercises, structure focused daily lift targets, and save workouts.
